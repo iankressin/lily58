@@ -24,4 +24,4 @@ const char *read_logo(void) {
 /*     }; */
 
 /*     return logo; */
-}
+/* } */
